@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Main {
 
-  public int[] calculateSpan(int[] stockPrices) {
+  public static int[] calculateSpan(int[] stockPrices) {
     int n = stockPrices.length;
     int[] span = new int[n];
 
@@ -24,9 +24,8 @@ public class Main {
   }
 
   public static void main(String[] args) {
-    Main calculator = new Main();
     int[] stockPrices = { 100, 80, 60, 70, 60, 75, 85 };
-    int[] spans = calculator.calculateSpan(stockPrices);
+    int[] spans = calculateSpan(stockPrices);
 
     System.out.println("Stock Prices: " + Arrays.toString(stockPrices));
     System.out.println("Stock Spans:   " + Arrays.toString(spans));
