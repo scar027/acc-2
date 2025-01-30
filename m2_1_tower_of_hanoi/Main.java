@@ -1,4 +1,4 @@
-package tower_of_hanoi;
+package m2_1_tower_of_hanoi;
 
 public class Main {
   public static void main(String[] args) {

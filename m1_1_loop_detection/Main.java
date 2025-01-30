@@ -1,4 +1,4 @@
-package m1_loop_detection;
+package m1_1_loop_detection;
 
 import java.util.LinkedList;
 import java.util.HashSet;

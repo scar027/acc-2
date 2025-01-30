@@ -1,4 +1,4 @@
-package minimum_stack;
+package m1_5_minimum_stack;
 
 import java.util.Scanner;
 import java.util.Stack;

@@ -1,4 +1,4 @@
-package sort_the_bitonic;
+package m1_2_sort_the_bitonic;
 
 import java.util.Collections;
 import java.util.LinkedList;

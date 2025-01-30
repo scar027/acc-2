@@ -1,4 +1,4 @@
-package celebrity_problem;
+package m1_6_celebrity_problem;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package segregate_even_and_odd;
+package m1_3_segregate_even_and_odd;
 
 import java.util.LinkedList;
 import java.util.Scanner;

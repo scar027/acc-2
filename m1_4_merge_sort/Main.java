@@ -1,4 +1,4 @@
-package merge_sort;
+package m1_4_merge_sort;
 
 import java.util.LinkedList;
 import java.util.Collections;
